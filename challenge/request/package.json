@@ -1,0 +1,21 @@
+{
+  "name": "request-a-demo",
+  "title": "Request A Demo",
+  "description": "Front End Web Developer challenge for Independent School Management",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Joe Hutchins",
+    "email": "bonneville.joey@gmail.com",
+    "website": "http://www.joeybonneville.com"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-jshint": "~0.11.3",
+    "grunt-contrib-less": "~1.0.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "matchdep": "~1.0.0"
+  },
+  "keywords": []
+}

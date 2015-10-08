@@ -1,0 +1,108 @@
+@import './_variables';
+@import './_mixins';
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: @grey;
+    color: @white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+legend {
+    color: @legend;
+    font-size: 85%;
+    letter-spacing: 01.5px;
+    position: relative;
+    top: 38px;
+}
+
+label {
+    color: @black;
+    font-size: 75%;
+    text-align: left;
+    width: 100%;
+    position: relative;
+    left: 12px;
+    top: 28px;
+}
+
+form {
+    & fieldset {
+        border: none;
+    }
+    & input.form-control {
+        background-color: @grey-light;
+        padding: 2.5em 0.75em 1.75em;
+        margin-bottom: -18px; //  it hurt me on the inside to do this :(
+    }
+}
+
+a.telephone {
+    color: @link;
+    text-decoration: underline;
+    &:hover {
+        color: @link-darker
+    }
+}
+
+a.bottom-link,
+a.bottom-link:hover {
+    color: @link-darker;
+    text-decoration: none;
+}
+
+.page {
+    &-logo {
+        background: @sprite -23px -34px;
+        width: 104px;
+        height: 40px;
+        text-align: center;
+        margin: 3.75em 12em;
+    }
+    &-footer {
+        background: @sprite -23px -104px;
+        width: 50px;
+        height: 20px;
+        margin: 1.5em 14em;
+    }
+    &-caret {
+        background: @sprite -60px -174px;
+        width: 13px;
+        height: 9px;
+        margin-bottom: 12px;
+    }
+}
+
+.form {
+    &-modal {
+        background-color: @white;
+        border-radius: 4px;
+        padding: 1em 2.56em;
+        .margin_;
+        & button.btn-default {
+            background-color: @button-default;
+            color: @white;
+            border-radius: 0;
+            width: 95%;
+            margin-top: 3em;
+            line-height: 2;
+        }
+        & button.btn-primary {
+            background-color: @green;
+            color: @white;
+            border: none;
+            border-radius: 0;
+            width: 95%;
+            margin-top: 3em;
+            line-height: 2;
+        }
+    }
+    &-group {
+        margin: 0;
+    }
+}

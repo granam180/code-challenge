@@ -1,0 +1,1847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"no",
+				"no-underline"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"link-",
+				"link-darker"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"f",
+				"fieldset	Tag"
+			],
+			[
+				"pa",
+				"pad_"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"l",
+				"linear-gradient"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"a",
+				"avoid"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"re",
+				"no-repeat"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"bottom",
+				"text-bottom"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onmouse",
+				"onmouseout	Attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"id",
+				"id3"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"seat",
+				"seatsAvail"
+			],
+			[
+				"ca",
+				"capacityStatus"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"BOR",
+				"border-radius"
+			],
+			[
+				"ticket",
+				"ticket-container"
+			],
+			[
+				"foin",
+				"font-weight"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"onmou",
+				"onmouseout	Attr"
+			],
+			[
+				"onmouseo",
+				"onmouseover	Attr"
+			],
+			[
+				"color",
+				"colorSwap"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"2px",
+				"20px"
+			],
+			[
+				"variation",
+				"ws-variation"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"list-",
+				"list-style-image"
+			],
+			[
+				"base-marg",
+				"base-margin"
+			],
+			[
+				"base-mar",
+				"base-margin"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"pet-sitemap",
+				"pet-sitemap-header-heading"
+			],
+			[
+				"err",
+				"error-text"
+			],
+			[
+				"error-",
+				"error-text"
+			],
+			[
+				"ws-forgot-",
+				"ws-forgot-field-error"
+			],
+			[
+				"error",
+				"error-border"
+			],
+			[
+				"base-margin",
+				"base-margin-half"
+			],
+			[
+				"ico_",
+				"ico_error-lrg"
+			],
+			[
+				"pet-page-",
+				"pet-page-level-error-message"
+			],
+			[
+				"label",
+				"label-width"
+			],
+			[
+				"ws-",
+				"ws-field"
+			],
+			[
+				"ws-store",
+				"ws-store-locator-label"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"lab",
+				"label-width"
+			],
+			[
+				"ws-email",
+				"ws-emailfriend-label"
+			],
+			[
+				"ws",
+				"ws-field"
+			],
+			[
+				"ws-field",
+				"ws-field-note"
+			],
+			[
+				"cat",
+				"ws-category-title"
+			],
+			[
+				"base-magin",
+				"base-margin-half"
+			],
+			[
+				"fade",
+				" fadeout(@color, 10%)"
+			],
+			[
+				"base-t",
+				"base-font-size"
+			],
+			[
+				"base-m",
+				"base-margin"
+			],
+			[
+				"base-line",
+				"base-line-height"
+			],
+			[
+				"less",
+				"lesslint"
+			],
+			[
+				"not",
+				"notinstore"
+			],
+			[
+				"base-f",
+				"base-font-size"
+			],
+			[
+				"base-ma",
+				"base-margin-tall"
+			],
+			[
+				"help",
+				"helpdesk-modal"
+			],
+			[
+				"ws-locale",
+				"ws-locale-list"
+			],
+			[
+				"ws-variation",
+				"ws-variation-list-item"
+			],
+			[
+				"label-",
+				"label-total"
+			],
+			[
+				"labe",
+				"label-total"
+			],
+			[
+				"css",
+				"csslintrc"
+			],
+			[
+				"path",
+				"pathCSS"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"ws-emal",
+				"ws-emailfriend"
+			],
+			[
+				"ws-emailfriend-head",
+				"ws-emailfriend-heading"
+			],
+			[
+				"ws-wishlist-",
+				"ws-wishlist-add-header"
+			],
+			[
+				"5",
+				"5em"
+			],
+			[
+				"arrow",
+				"arrow_pointing"
+			],
+			[
+				"kor",
+				"kor-field-error-message"
+			],
+			[
+				"1em",
+				"1em"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"ws-donation-",
+				"ws-donation-currency"
+			],
+			[
+				"ws-ca",
+				"ws-checkout-items-header"
+			],
+			[
+				"gifting",
+				"giftingForm"
+			],
+			[
+				"json",
+				"jsonlint"
+			],
+			[
+				"csslint",
+				"csslintParam"
+			],
+			[
+				"cssli",
+				"csslint"
+			],
+			[
+				"pat",
+				"pathCSS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jbonneville/Documents/WebDev/myApps/notemini/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 133287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "request/index.html",
+			"settings":
+			{
+				"buffer_size": 3536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "request/assets/less/styles.less",
+			"settings":
+			{
+				"buffer_size": 1591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "request/main.css",
+			"settings":
+			{
+				"buffer_size": 2267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "request/assets/less/_variables.less",
+			"settings":
+			{
+				"buffer_size": 1303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "request/assets/less/_mixins.less",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"angu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"less",
+				"List LESS variables"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"grunt ",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"b",
+				"Bower: Configure project"
+			],
+			[
+				"bower ",
+				"Bower: Install"
+			],
+			[
+				"bwer",
+				"Bower: Discover packages"
+			],
+			[
+				"js",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"tort",
+				"Preferences: Tortoise Key Bindings – Default"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: D",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"git clone git://github.com/danro/LESS-sublime.git LESS"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jbonneville/Documents/WebDev/myApps",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/css",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini",
+		"/Users/jbonneville/Documents/WebDev/challenge",
+		"/Users/jbonneville/Documents/WebDev/challenge/request",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/assets",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/assets/less"
+	],
+	"file_history":
+	[
+		"/Users/jbonneville/Documents/WebDev/challenge/request/index.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/less/styles.less",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/bootstrap.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/index.html",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/package.json",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/Gruntfile.js",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/.jshintrc",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/css/less/styles.less",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/css/less/variables.less",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/css/less/mixins.less",
+		"/Users/jbonneville/Documents/WebDev/challenge/request/.gruntjshintrc",
+		"/Users/jbonneville/Documents/WebDev/challenge/challenge.sublime-project",
+		"/Users/jbonneville/Documents/WebDev/myApps/my-apps.sublime-project",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/learnin.sublime-project",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/challenge/request/index.html",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/challenge/request/css/variables.less",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/challenge/request/css/styles.less",
+		"/Users/jbonneville/Desktop/challenge/request/index.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/notebook-js.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/css/ie8-and-down.css",
+		"/Users/jbonneville/Downloads/html5-boilerplate_v5.2.0/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/log_integer/index.php",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/codeschool-shaping-up-with-angular-master/store-products.json",
+		"/Users/jbonneville/Downloads/html5-boilerplate_v5.2.0/crossdomain.xml",
+		"/Users/jbonneville/Downloads/html5-boilerplate_v5.2.0/browserconfig.xml",
+		"/Users/jbonneville/Downloads/html5-boilerplate_v5.2.0/css/main.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/style.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/ie8-and-down.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/html_love/normalize.css",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/ie/ie-87.css",
+		"/Users/jbonneville/PETS/PETSMT/static/default/Gruntfile.js",
+		"/Users/jbonneville/PETS/PETSMT/static/default/package.json",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/ie/ie-987.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/notebook-js.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/arrays/array.php",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/Blasting Off w:Bootstrap/bootstrap/dist/bootstrap-example/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/main.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/main.css",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/index.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/index.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/js/app.js",
+		"/Users/jbonneville/GitHub/bootstrap-example/css/main.css",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/js/custom.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/bootstrap.css",
+		"/Users/jbonneville/Desktop/php.php",
+		"/Users/jbonneville/GitHub/bootstrap-example/index.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/js/ui.draggable.js",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/style/style.css",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/index.html",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/js/ui.draggable.js",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/js/ui.core.js",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/js/jquery-1.3.2.js",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/script.js",
+		"/Users/jbonneville/Desktop/github_pulls/chStickyNotes-master/js/chStickyNotes.js",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/css/reset.css",
+		"/Users/jbonneville/Documents/WebDev/myApps/notemini/style.css",
+		"/Users/jbonneville/Desktop/github_pulls/chStickyNotes-master/demo.html",
+		"/Users/jbonneville/Desktop/github_pulls/chStickyNotes-master/README.md",
+		"/Users/jbonneville/Desktop/github_pulls/Note-master/.gitignore",
+		"/Users/jbonneville/Desktop/GitHub Pulls/Note-master/style/style.css",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/angular_custom/index.html",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/angular_custom/app.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/app.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/angular/angular_custom/products.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/app.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/jQuery.html",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/CodeAcademy/script.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/CodeAcademy/movedown/script.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/style.css",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/reset.css",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/photoapp.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/keyup.html",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/jquery.js",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/JQuery/CodeAcademy/menu/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/LESS/styles.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/old-style.css",
+		"/Users/jbonneville/GitHub/years-counter/header.php",
+		"/Users/jbonneville/GitHub/years-counter/index.php",
+		"/Users/jbonneville/GitHub/years-counter/css/main.css",
+		"/Users/jbonneville/GitHub/years-counter/css/less/styles.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/LESS/styles.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/LESS/_variables.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/LESS/_mixins.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/account.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/_mixins.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/checkout.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/mc.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/css/style.css",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/mc.css",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/helpdesk.css",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/checkout.css",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/cms.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/_variables.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/ws-template.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/ws-behavior.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/product-page.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/print.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/base-type.less",
+		"/Users/jbonneville/PETS/PETSMT/static/default/css/less/base-forms.less",
+		"/Users/jbonneville/Documents/WebDev/myApps/myBudget/myBudget.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/untitled folder/_variables.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/LESS/_mixins.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/years_counter/LESS/styles.less",
+		"/Users/jbonneville/Documents/WebDev/myApps/spinwheel/app.js",
+		"/Users/jbonneville/Documents/WebDev/myApps/myBudget/budget.js",
+		"/Users/jbonneville/Documents/WebDev/myApps/bootstrap.css",
+		"/Users/jbonneville/GitHub/bootstrap-example/boot/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/index.php",
+		"/Users/jbonneville/Documents/WebDev/myApps/myBudget/myBudget-inline.html",
+		"/Users/jbonneville/GitHub/my-budget/myBudget/myBudget.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/app.js",
+		"/Users/jbonneville/GitHub/my-budget/myBudget/myBudget.min.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/untitled folder/app.js",
+		"/Users/jbonneville/GitHub/bootstrap-example/boot/js/bootstrap.js",
+		"/Users/jbonneville/GitHub/my-budget/myBudget/myBudget-inline.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/untitled folder/spin_billions.html",
+		"/Users/jbonneville/GitHub/bootstrap-example/boot/css/bootstrap.css",
+		"/Users/jbonneville/GitHub/my-budget/myBudget/budget.css",
+		"/Users/jbonneville/Documents/WebDev/Learn to Code/Blasting Off w:Bootstrap/node_modules/bootstrap/dist/index.html",
+		"/Users/jbonneville/Documents/WebDev/myApps/main.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"",
+			"C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\infinite",
+			"C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\smpl-skeleton",
+			"C:\\Users\\baileyr\\Desktop\\v11_launch\\pet\\gsi_pet_na_sf\\trunk\\staticfiles\\cartridge\\static\\default\\css\\less",
+			"C:\\Users\\baileyr\\Desktop\\v11_launch\\pet\\gsi_pet_na_sf\\trunk\\staticfiles\\cartridge\\templates\\default\\checkout\\common\\widgets",
+			"",
+			"C:\\Users\\baileyr\\Desktop\\v11 launch\\pet\\gsi_pet_na_sf\\trunk\\staticfiles\\cartridge\\static\\default\\css\\less",
+			"C:\\Users\\baileyr\\Desktop\\v11 launch\\pet\\gsi_pet_na_sf\\trunk\\staticfiles\\cartridge\\static\\default\\css",
+			"C:\\UwAmp\\www\\HS-cake\\app\\View\\Errors",
+			"C:\\UwAmp\\www\\cake\\scc\\Controller",
+			"C:\\UwAmp\\www\\HS-cake\\app\\View\\Errors",
+			"C:\\Users\\baileyr\\Desktop\\Generico\\cartridges\\gsi_gst_na_us_sf\\trunk\\staticfiles\\cartridge\\static\\default\\css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".pad_",
+			"label",
+			"offset",
+			"6",
+			"margin-bottom",
+			"fluid",
+			"center",
+			".container",
+			"img",
+			"ie",
+			"strong",
+			"article",
+			"pos",
+			"hours",
+			"buttonGroup",
+			"list-group",
+			"clear",
+			".pad_",
+			"._pad",
+			".splitCol",
+			"br",
+			"margin-bottom",
+			"tabs",
+			"link",
+			"dropdown-header",
+			"werks",
+			"werks\n",
+			"onblur=\"validateNumber(this.value)\" />",
+			"blog",
+			"ul",
+			"ul	",
+			"italic",
+			"textarea",
+			"pull-right",
+			".group",
+			".clear",
+			"000AAA",
+			"nav-tabs",
+			"float: right",
+			"aside",
+			"float: right",
+			"#AADD11",
+			"input {",
+			"pull-right",
+			"main-container",
+			"textarea",
+			"border-bottom",
+			"nav",
+			"textarea",
+			"col",
+			"fieldset",
+			"nav",
+			"ul",
+			"nav",
+			"container",
+			"container		",
+			"main",
+			"shockSound",
+			"relative",
+			"FF55dd",
+			"absolute",
+			"Weight",
+			"error",
+			"mySound",
+			"nbsp",
+			"tooltip",
+			"tooltip	",
+			"tooltip",
+			"wrapper",
+			"note-wrapper",
+			"note",
+			" type=\"audio/mpeg\"",
+			" id=\"myAudio\"",
+			"vid",
+			"onclick",
+			"onmouseover",
+			"pro_price pt5",
+			"<i class=\"tag_c\"></i>",
+			"tag_c",
+			"/m-flow-a-drop_to_collect-id-180169.htm",
+			"onclick",
+			"#all-tickets",
+			"tours",
+			"ticket-container",
+			"all-tours",
+			"highlight",
+			"price",
+			"per-night",
+			"price",
+			"per-night",
+			"highlight",
+			"joey",
+			"alignleft",
+			"align-left",
+			"wp-image-124",
+			"alignleft size-full wp-image-124",
+			".dl-menuwrapper button",
+			"header_logo",
+			"title",
+			"title	",
+			"title		",
+			"title							",
+			"title			",
+			"title",
+			"bonneville",
+			"title",
+			"Contact Information",
+			"contact-icon",
+			".wppg_photo_details_navigation_links a",
+			"#wppg_gallery_container .wppg_gallery_item_top",
+			"#wppg-gallery-display .item",
+			"#wppg_gallery_container .wppg_gallery_item_top img",
+			"#wppg_gallery_container .wppg_gallery_item_bottom .wppg_gallery_item_name",
+			"home.css",
+			"grid",
+			"main-footer li",
+			"contact-icon",
+			"small",
+			"small a",
+			"small",
+			"small a",
+			"basic",
+			"basic a",
+			".basic a",
+			"more-site",
+			"See More",
+			"site-navigation",
+			"<!-- #site-navigation -->"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".margin_",
+			"h3",
+			"section",
+			"h",
+			"divider",
+			"works",
+			"placeholder=\"$\" onblur=\"validateNumber(this.value)\" />",
+			"tonySound",
+			"absolute",
+			"relative",
+			"myWeight",
+			"shockSound",
+			"\">\n",
+			"id=\"id\"",
+			"",
+			"au",
+			"onmouseover",
+			"onclick",
+			"onmouseover",
+			".one_half",
+			"all-tickets",
+			"listbox",
+			"pl",
+			"places",
+			"",
+			"href=\"#\"",
+			"@base-margin-half",
+			"@base-margin",
+			"@base-margin-half",
+			"@base-margin",
+			"@base-margin-tall",
+			"@base-line-height",
+			"@base-line-height;",
+			"ws-checkout-aside-header-heading",
+			".ws-locale",
+			"ws-locale",
+			"ws-locale-",
+			"",
+			"ws-minicart-summary-value",
+			"ws-minicart-summary-item",
+			".brdr",
+			"@blue",
+			"@blue-dark",
+			"gc-field ws-giftcard-field",
+			"gc-label ws-giftcard-label",
+			"ws-giftcert-text",
+			"ws-giftcert-label",
+			"ws-giftcert-label-desc",
+			"ws-giftcard-label",
+			"@blue-light",
+			"class=\"ws-aside-cost-item ws-line-item",
+			"class=\"ws-aside-cost-value value\">",
+			"class=\"ws-aside-cost-value value",
+			"class=\"ws-aside-cost-type type\"",
+			"class=\"ws-aside-cost-type type\"\n				<span class=\"ws-aside-cost-typeclass=\"type\"><istext key=\"checkout.order.estimated_shipping.label\" /></span>\nclass=\"ws-aside-cost-type type\"",
+			"class=\"ws-aside-cost-type type\">\n				<span class=\"ws-aside-cost-typeclass=\"type\"><istext key=\"checkout.order.estimated_shipping.label\" /></span>\nclass=\"ws-aside-cost-type type\"",
+			"				<span class=\"ws-aside-cost-typeclass=\"type\"><istext key=\"checkout.order.estimated_shipping.label\" /></span>\n				<span class=\"ws-aside-cost-typeclass=\"type\"><istext key=\"checkout.order.estimated_shipping.label\" /></span>\nclass=\"ws-aside-cost-type type\"",
+			"1081",
+			"<dt class=\"ws-setting-type ws-type type-",
+			"ws-label",
+			"ws-cost-item",
+			"ws-line-item",
+			"",
+			"\"#",
+			"",
+			"#",
+			"",
+			"role",
+			"}",
+			"#",
+			" ",
+			"",
+			"<dt class=\"val\">",
+			"<dt class=\"nfo\">",
+			"$type",
+			"type",
+			"$type",
+			"<h6 class=\"ttl\">",
+			"<h5 class=\"ttl\">",
+			"<h4 class=\"ttl\">",
+			"<h3 class=\"ttl\">",
+			"<h2 class=\"ttl\">",
+			"<h1 class=\"ttl\">",
+			"<label class=\"lbl\">",
+			"<li class=\"lst\">",
+			"<h2 class=\"ttl\">",
+			"<h1 class=\"ttl\">",
+			"url('../ff/",
+			".btn-group",
+			"<div class=\"fault err-stack\">",
+			"lst-slices",
+			"/ff/n",
+			"url('_lib/ff",
+			"",
+			".fld-",
+			".gd-suffix-",
+			".gd-prefix-",
+			".gd-pull-",
+			".gd-push-",
+			".gd-suffix-",
+			".gd-prefix-",
+			"}",
+			"",
+			".gd-grid-",
+			".gd-grid-.grid_\n<dl class=\"def error\">",
+			".gd-grid-\n<dl class=\"def error\">",
+			" \n<dl class=\"def error\">",
+			"\n<dl class=\"def error\">",
+			"<div class=\"err\">\n<dl class=\"def error\">",
+			"<div class=\"err\">\n<dt class=\"itm notice err-notice\">",
+			"<div class=\"err\">\n</dt>",
+			"<div class=\"err\">\n<h2 class=\"ttl ttl-err\">",
+			"</dt>",
+			"<dt class=\"itm notice\">",
+			"<dl class=\"def error\">",
+			"-current",
+			" .ws-step-number",
+			"<a class=\"ws-step-name ws-link\"",
+			"<span class=\"ws-step-name ws-link-inactive",
+			"",
+			".gst-footer",
+			"",
+			"<label class=\"ws-label\"",
+			".gst-utility",
+			".gd-suffix-",
+			".gd-prefix-",
+			"}",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jbonneville/Documents/WebDev/myApps/notemini/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41306,
+								41311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 62906.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "request/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3090,
+								3090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "request/assets/less/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 814.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "request/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "request/assets/less/_variables.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1155,
+								1155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "request/assets/less/_mixins.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 319.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/jbonneville/Documents/WebDev/myApps/my-apps.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Learn to Code/escript.py"
+			],
+			[
+				"fun",
+				"smpl-skeleton\\functions.php"
+			],
+			[
+				"checkout",
+				"static\\css\\less\\checkout.less"
+			],
+			[
+				"chec",
+				"static\\css\\checkout.css"
+			],
+			[
+				"page",
+				"dev02_branch\\cartridge\\static\\default\\css\\product-page.css"
+			],
+			[
+				"acc",
+				"static\\css\\account.css"
+			],
+			[
+				"tem",
+				"static\\css\\less\\ws-template.less"
+			],
+			[
+				"te",
+				"static\\css\\ws-template.css"
+			],
+			[
+				"vari",
+				"static\\css\\less\\product-variationselect.less"
+			],
+			[
+				"ac",
+				"static\\css\\account.css"
+			],
+			[
+				"check",
+				"static\\css\\checkout.css"
+			],
+			[
+				"ba",
+				"static\\css\\base-type.css"
+			],
+			[
+				"prod",
+				"static\\css\\product-page.css"
+			],
+			[
+				"wishlist",
+				"static\\css\\wishlist.css"
+			],
+			[
+				"gift",
+				"templates\\comp\\giftcard\\GiftCertificatePage.isml"
+			],
+			[
+				"foo",
+				"static\\css\\less\\food-selector.less"
+			],
+			[
+				"base",
+				"static\\css\\base-type.css"
+			],
+			[
+				"base-ty",
+				"static\\css\\base-type.css"
+			],
+			[
+				"loop",
+				"static\\css\\product-loop.css"
+			],
+			[
+				"nav",
+				"static\\css\\product-navigation.css"
+			],
+			[
+				"bas",
+				"static\\css\\base-forms.css"
+			],
+			[
+				"navi",
+				"static\\css\\product-navigation.css"
+			],
+			[
+				"typ",
+				"static\\default\\css\\less\\base-type.less"
+			],
+			[
+				"accou",
+				"static\\default\\css\\account.css"
+			],
+			[
+				"behavior",
+				"static\\default\\css\\ws-behavior.css"
+			],
+			[
+				"accoun",
+				"static\\default\\css\\account.css"
+			],
+			[
+				"wishli",
+				"static\\default\\css\\wishlist.css"
+			],
+			[
+				"food",
+				"static\\default\\css\\less\\food-selector.less"
+			],
+			[
+				"form",
+				"static\\default\\css\\less\\base-forms.less"
+			],
+			[
+				"pag",
+				"static\\default\\css\\less\\product-page.less"
+			],
+			[
+				"page/",
+				"static\\default\\node_modules\\grunt-contrib-imagemin\\node_modules\\image-min\\node_modules\\pngquant-bin\\node_modules\\bin-wrapper\\node_modules\\download\\node_modules\\request\\node_modules\\forever-agent\\LICENSE"
+			],
+			[
+				"produ",
+				"static\\default\\css\\less\\product-giftcards.less"
+			],
+			[
+				"product-gic",
+				"static\\default\\css\\less\\product-giftcards.less"
+			],
+			[
+				"giftcards",
+				"templates\\default\\checkout\\payment\\paymentmethods\\GiftCardsAssignedToBasket.isml"
+			],
+			[
+				"giftcard",
+				"templates\\default\\checkout\\payment\\additionalmodules\\05_GiftCards.isml"
+			],
+			[
+				"line",
+				"templates\\default\\checkout\\shipping\\LineItems.isml"
+			],
+			[
+				"varia",
+				"static\\default\\css\\less\\_variables.less"
+			],
+			[
+				"mix",
+				"static\\default\\css\\less\\_mixins.less"
+			],
+			[
+				"over",
+				"static\\default\\js\\overrides.js"
+			],
+			[
+				"ws-be",
+				"static\\default\\css\\less\\ws-behavior.less"
+			],
+			[
+				"pro",
+				"static\\default\\css\\less\\product-loop.less"
+			],
+			[
+				"ws-tem",
+				"static\\default\\css\\less\\ws-template.less"
+			],
+			[
+				"mini",
+				"templates\\default\\comp\\cart\\MiniCart.isml"
+			],
+			[
+				"cost",
+				"templates\\default\\cart\\common\\CostSummary.isml"
+			],
+			[
+				"package",
+				"static\\default\\package.json"
+			],
+			[
+				"grunt",
+				"static\\default\\Gruntfile.js"
+			],
+			[
+				"video",
+				"templates\\default\\comp\\product\\VideoLink.isml"
+			],
+			[
+				"base-forms.less",
+				"static\\default\\css\\less\\base-forms.less"
+			],
+			[
+				"helpde",
+				"static\\default\\css\\less\\helpdesk.less"
+			],
+			[
+				"va",
+				"static\\default\\css\\less\\_variables.less"
+			],
+			[
+				"product",
+				"static\\default\\css\\less\\product-navigation.less"
+			],
+			[
+				"ws-behavior.",
+				"static\\default\\css\\less\\ws-behavior.less"
+			],
+			[
+				"base-form",
+				"static\\default\\css\\less\\base-forms.less"
+			],
+			[
+				"lineitems",
+				"templates\\default\\checkout\\shipping\\LineItems.isml"
+			],
+			[
+				"_va",
+				"static\\default\\css\\less\\_variables.less"
+			],
+			[
+				"checkout.less",
+				"static\\default\\css\\less\\checkout.less"
+			],
+			[
+				"ws-",
+				"static\\default\\css\\less\\ws-behavior.less"
+			],
+			[
+				"pack",
+				"static\\default\\package.json"
+			],
+			[
+				"ws-behavior.less",
+				"static\\default\\css\\less\\ws-behavior.less"
+			],
+			[
+				"shop",
+				"templates\\default\\comp\\product\\ShippingOptions.isml"
+			],
+			[
+				"order",
+				"templates\\default\\comp\\account\\OrderDetails.isml"
+			],
+			[
+				"ex",
+				"templates\\default\\inc\\ExtensionCSS.isml"
+			],
+			[
+				"shipp",
+				"templates\\default\\comp\\product\\ShippingOptions.isml"
+			],
+			[
+				"helpdesk",
+				"static\\default\\css\\less\\helpdesk.less"
+			],
+			[
+				"ws",
+				"static\\default\\css\\less\\ws-behavior.less"
+			],
+			[
+				"cou",
+				"templates\\default\\comp\\common\\CountryToggle.isml"
+			],
+			[
+				"base-",
+				"static\\default\\css\\less\\base-forms.less"
+			],
+			[
+				"coun",
+				"templates\\default\\comp\\common\\CountryToggle.isml"
+			],
+			[
+				"gif",
+				"templates\\default\\comp\\giftcard\\GiftCertificatePage.isml"
+			],
+			[
+				"forgotp",
+				"templates\\default\\comp\\account\\form\\ForgotPasswordStep1Simple.isml"
+			],
+			[
+				"for",
+				"templates\\default\\comp\\account\\form\\ForgotPasswordStep1Simple.isml"
+			],
+			[
+				"ws-beh",
+				"static\\default\\css\\less\\ws-behavior.less"
+			],
+			[
+				"custom",
+				"templates\\default\\comp\\product\\configuration\\Customization.isml"
+			],
+			[
+				"account.less",
+				"static\\default\\css\\less\\account.less"
+			],
+			[
+				"variabl",
+				"static\\default\\css\\less\\_variables.less"
+			],
+			[
+				"variab",
+				"static\\default\\node_modules\\grunt-contrib-less\\test\\fixtures\\include\\variables.less"
+			],
+			[
+				"checkoutshipp",
+				"templates\\default\\checkout\\shipping\\CheckoutShipping.isml"
+			],
+			[
+				"base-type.less",
+				"static\\default\\css\\less\\base-type.less"
+			],
+			[
+				"base-type",
+				"static\\default\\css\\base-type.css"
+			],
+			[
+				"account",
+				"static\\default\\css\\less\\account.less"
+			],
+			[
+				"gifting",
+				"templates\\default\\checkout\\gifting\\GiftOptions.isml"
+			],
+			[
+				"gifc",
+				"templates\\default\\comp\\giftcard\\GiftCertificatePage.isml"
+			],
+			[
+				"shopp",
+				"templates\\default\\comp\\product\\ShippingOptions.isml"
+			],
+			[
+				"ship",
+				"templates\\default\\checkout\\shipping\\ShippingMethods.isml"
+			],
+			[
+				"csscss",
+				"static\\default\\reports\\PETSMT-CSSCSS.txt"
+			],
+			[
+				"add",
+				"templates\\default\\checkout\\addresses\\AddressBookValidationPage.isml"
+			],
+			[
+				"address",
+				"templates\\default\\checkout\\addresses\\AddressBookPage.isml"
+			],
+			[
+				"login",
+				"templates\\default\\comp\\account\\form\\Login.isml"
+			],
+			[
+				"_shop",
+				"templates\\default\\cart\\_ShoppingCart.isml"
+			],
+			[
+				"shopping",
+				"templates\\default\\cart\\ShoppingCart.isml"
+			],
+			[
+				"_mixin",
+				"static\\default\\css\\less\\_mixins.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/PETS/PETSMT/petsmart.sublime-project"
+			],
+			[
+				"est",
+				"/C/Users/baileyr/Desktop/Dropbox/WS tool kit - WS documentation/estimation tool/gsiest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"header"
+			]
+		],
+		"width": 413.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

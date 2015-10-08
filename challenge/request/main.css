@@ -1,0 +1,114 @@
+/*
+@base-font-size:              0.5em;
+@base-size-h1:                floor(@base-font-size * 7.5); //90px
+@base-size-h2:                floor(@base-font-size * 3); //36px
+@base-size-h3:                floor(@base-font-size * 1.6667); //20px
+@base-size-h4:                floor(@base-font-size * 1.8333); //22px
+@base-size-h5:                floor(@base-font-size * 1.5); //18px
+@base-size-sm:                floor(@base-font-size * 1.3333); //16px
+@base-size-sm1:               floor(@base-font-size * 1.1667); //14p
+@base-size-med:               floor(@base-font-size * 2.75); //33px
+@base-size-lg:                floor(@base-font-size * 3.3333); //40px
+@base-size-mb-h1:             floor(@base-font-size * 5.0); //60px
+@base-size-mb-h2:             floor(@base-font-size * 2.1667); //26px
+@base-size-mb-h3:			floor(@base-font-size * 0.9167); //11px
+@base-size-mb-h4:             floor(@base-font-size * 6.6667); //80px
+*/
+.margin_ {
+  margin: 3.65em 0;
+}
+.ws-hide {
+  display: none;
+}
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+body {
+  background-color: #3b444d;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+legend {
+  color: #d9dde2;
+  font-size: 85%;
+  letter-spacing: 01.5px;
+  position: relative;
+  top: 38px;
+}
+label {
+  color: #000000;
+  font-size: 75%;
+  text-align: left;
+  width: 100%;
+  position: relative;
+  left: 12px;
+  top: 28px;
+}
+form fieldset {
+  border: none;
+}
+form input.form-control {
+  background-color: #f5f6f8;
+  padding: 2.5em 0.75em 1.75em;
+  margin-bottom: -18px;
+}
+a.telephone {
+  color: #ffffff;
+  text-decoration: underline;
+}
+a.telephone:hover {
+  color: #d9d9d9;
+}
+a.bottom-link,
+a.bottom-link:hover {
+  color: #d9d9d9;
+  text-decoration: none;
+}
+.page-logo {
+  background: url('images/sprite.png') -23px -34px;
+  width: 104px;
+  height: 40px;
+  text-align: center;
+  margin: 3.75em 12em;
+}
+.page-footer {
+  background: url('images/sprite.png') -23px -104px;
+  width: 50px;
+  height: 20px;
+  margin: 1.5em 14em;
+}
+.page-caret {
+  background: url('images/sprite.png') -60px -174px;
+  width: 13px;
+  height: 9px;
+  margin-bottom: 12px;
+}
+.form-modal {
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 1em 2.56em;
+  margin: 3.65em 0;
+}
+.form-modal button.btn-default {
+  background-color: #bcc3cb;
+  color: #ffffff;
+  border-radius: 0;
+  width: 95%;
+  margin-top: 3em;
+  line-height: 2;
+}
+.form-modal button.btn-primary {
+  background-color: #7aba69;
+  color: #ffffff;
+  border: none;
+  border-radius: 0;
+  width: 95%;
+  margin-top: 3em;
+  line-height: 2;
+}
+.form-group {
+  margin: 0;
+}

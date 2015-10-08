@@ -1,0 +1,16 @@
+.type-reset-base( @weight: normal, @base: @base-type-family, @size: @base-font-size ) {
+	font-weight: @weight;
+	font-family: @base;
+	text-transform: capitalize;
+	.font-size( @size );
+}
+
+.font-size( @font-size: 12 ) {
+	@rem: ( @font-size / 10 );
+	font-size : ~"@{rem}rem";
+	font-size : @font-size * 1px;
+}
+
+.margin_ { margin: 3.65em 0 }
+
+.ws-hide { display: none; }
